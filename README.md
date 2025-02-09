@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*5WXRN62ddiM_Gcf4GDdCZg.gif" alt="Sorting GIF" />
 </p>
-
+.
 <h2 align="center">A Visual Journey Through the World of Sorting Algorithms</h2>
 
 Welcome to the Sorting Algorithm Visualizer! 🚀 This interactive application allows you to witness the power of six essential sorting algorithms in real-time. Whether you're a student trying to grasp how algorithms work or a developer looking to visualize your code, this tool is designed to make sorting an engaging and educational experience.
