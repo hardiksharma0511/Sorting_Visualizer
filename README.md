@@ -35,7 +35,7 @@ Already familiar with algorithms? Fine-tune your knowledge by seeing how each al
 
 ### 🚀 For Enthusiasts & Educators
 Create an engaging environment to explain sorting algorithms with hands-on demonstrations. Teachers can use this tool to teach their students in a more interactive and impactful way.
-
+.
 ## How It Works
 
 * Generate Random Data: The array of numbers that you wish to sort will be generated randomly.
