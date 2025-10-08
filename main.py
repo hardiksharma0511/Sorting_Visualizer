@@ -7,7 +7,7 @@ from textwrap import dedent
 import base64
 import os
 
-# THIS MUST BE THE FIRST STREAMLIT COMMAND
+#FIRST STREAMLIT COMMAND
 st.set_page_config(page_title="Sorting Visualizer", layout="wide")
 
 def set_bg_from_local(image_file):
@@ -28,13 +28,13 @@ def set_bg_from_local(image_file):
         unsafe_allow_html=True
     )
 
-# Set the background image (assume the file is named 'background.jpg')
+#background image (file is named 'background.jpg')
 set_bg_from_local("background.jpg")
 
 # --- Personal Info ---
 NAME = "Hardik Sharma"
 GITHUB = "https://github.com/hardiksharma0511/Sorting_Visualizer"
-LINKEDIN = "https://www.linkedin.com/in/hardiksharma05"  # <-- Replace with your real LinkedIn
+LINKEDIN = "https://www.linkedin.com/in/hardiksharma05"
 
 # --- Algorithm Info ---
 ALGO_INFO = {
