@@ -1,5 +1,4 @@
 
-
 <h1 align="center">🔢 Sorting Algorithm Visualizer</h1>
 
 <p align="center">
